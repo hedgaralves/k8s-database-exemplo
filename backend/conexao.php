@@ -17,3 +17,5 @@ if (mysqli_connect_errno()) {
 }
 
 ?>
+
+# conexão com database
